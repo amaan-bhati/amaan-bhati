@@ -70,7 +70,7 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation, AI or anything related to tech, feel free to <a href="linktree.com/amaanbhati"> contact me</a>, I won't charge moeny in the fomr of coffee.
+If you have any questions about web development, writing mistake-free documentation, AI or anything related to tech, feel free to <a href="https://linktr.ee/amaanbhati"> contact me</a>, I won't charge moeny in the fomr of coffee.
 
   </td>
   <td width="50%" valign="top">
