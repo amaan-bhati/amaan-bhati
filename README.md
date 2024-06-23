@@ -6,7 +6,7 @@
 <div>
   
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Amaan;Web+Lead+at+MLSAKIIT;Welcome+to+my+profile!;Description+of+myself%3A;Web+Developer;Tech+enthusiast;aspiring+fulltime+software+developer;Inquisitive+by+nature;connect+on+socials+if+you+want+talk+about+tech!" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Amaan;Web+Lead+at+MLSAKIIT;Welcome+to+my+profile!;Description+of+myself%3A;Web+Developer;Tech+enthusiast;aspiring+fulltime+software+developer;Inquisitive+by+nature;connect+if+you+want+talk+about+tech!" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -22,17 +22,15 @@
  * Represents me.
  * @constructor
  * @param {string} city - Bangalore, India.
- * @param {string} languagues - English, Hindi.
  * @param {string} jobTitle - Web/Software Developer.
  * @param {string} specialization - Building full-fledged web applications and software, also a tech enthusiast.
  * @param {string} interests - WEB/APP Dev, Web-3, Blockchain, Computer Vision, OpenAI, GnerativeAI, Problem-solving.
  * @param {string} hobbies - Exploring new places, food and music. Also love playing/watching sports.
  * @param {string} education - B.Tech in Computer Science and Engineering, KIIT University.
- * @param {string} approachable - Yes, to collaborate on exciting projects and discuss modern frameworks and libraries.
- * @param {string} stength - Web Development, Leadership qualities and knowledge over multiple technical domains.
- * @param {string} weakness - An introvert by nature, wont talk much if its not about tech or sports.
+ * @param {string} languages - HTML/CSS, Javascript, Typescript, Java, C, C++, Python.
+ * @param {string} frontend skills - HTML/CSS, Reactjs, Nextjs, Redux, SCSS, TailwindCSS, Framer Motion, Shadcn.
+ * @param {string} backend skills - Nodejs, Expressjs, Mongodb, Neondb, Supabase, Mongodb, Postgres.
  * @param {Date} birthday - 10th November, 2002.
- * @throws {Punch} To people who claim to hack NASA after learning HTML.
  * @returns {Object} Amaan.
  */
 ```
