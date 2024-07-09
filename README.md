@@ -46,39 +46,11 @@
 
 
 <details>
-<summary>Click here if you wanna hear a tech PJ</summary>
+<summary>Click here if you want to hear a tech PJ</summary>
   <br>
   <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
   <br><br>
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
 
 </details>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-## Let's connect!
-
-If you have any questions about web development, writing mistake-free documentation, AI or anything related to tech, feel free to contact me at <a href="https://contact.amaanbhati.tech"> contact.amaanbhati.tech</a>, I won't charge money in the form of coffee.
-
-  </td>
-  <td width="50%" valign="top">
-
-## Constantly striving to improve
-
-
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
-
-  </td>
-  </tr>
-</table>
-
-
-
-
-</div>
 
