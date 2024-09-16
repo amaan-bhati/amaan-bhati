@@ -54,5 +54,4 @@
 
 </details>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amaan-bhati&theme=merko&border_radius=6.5&card_width=500&card_height=196)](https://git.io/streak-stats)
 
